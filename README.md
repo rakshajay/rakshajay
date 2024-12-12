@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React and ES6**
 
-- 👨‍💻 All of my projects are available at [https://rakshajay.github.io/Raksha-Portfolio/index.html](https://rakshajay.github.io/Raksha-Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://www.rakshashetty.com/](https://rakshajay.github.io/Raksha-Portfolio/index.html)
 
 - 💬 Ask me about **How to integrate design and code**
 
 - 📫 How to reach me **rakshashettyhs@gmail.com**
 
-- 📄 Know about my experiences [https://rakshajay.github.io/Raksha-Portfolio/Resume.html](https://rakshajay.github.io/Raksha-Portfolio/Resume.html)
+- 📄 Know about my experiences [https://www.rakshashetty.com/resume](https://rakshajay.github.io/Raksha-Portfolio/Resume.html)
 
 - ⚡ Fun fact **Love to paint and also know about you**
 
